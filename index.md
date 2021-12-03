@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi, you all! I am a sophomore at Smith College double majoring in Data Science and Education. I am an international student from Paraguay. I am trying to find my career path where I can mix both social sciences and data science. As one of my favorite professors says, I would like to show and not just tell why some things should matter to us. I am comfortable working with R and Python programming languages. I have experience visualizing data using Tableau and Datawrapper as well. I am hoping to showcase in this blog some of my work done in my free time as well as assignments from my data science courses. Outside of my academic journey, I enjoy biking around the Pioneer Valley, criticizing Netflix shows, and writing stories for children.
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
